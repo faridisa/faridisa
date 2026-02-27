@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salam, mən Farid!
 
-<!--
-**faridisa/faridisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Proqramlaşdırmanı öyrənən həvəskar developer
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/faridisa?style=social)](https://github.com/faridisa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Haqqımda
+
+- 🌱 Hazırda proqramlaşdırmanı öyrənirəm
+- 💻 Hər gün yeni şeylər kəşf edirəm
+- 🎯 Məqsədim peşəkar developer olmaq
+- 📍 Azərbaycandan
+
+---
+
+## 🛠️ Öyrəndiyim Texnologiyalar
+
+### Programlaşdırma Dilləri
+![Skills](https://skillicons.dev/icons?i=cs,cpp,js,python,)
+
+### Frontend
+![Skills](https://skillicons.dev/icons?i=html,css,js)
+
+### Backend
+![Skills](https://skillicons.dev/icons?i=dotnet,nodejs,java)
+
+
